@@ -1,0 +1,22 @@
+# Python Fundamentals
+
+## Introduction to Python
+Python is a high-level, interpreted programming language known for its simplicity and readability. It supports multiple programming paradigms including procedural, object-oriented, and functional programming.
+
+## Data Types in Python
+Python includes several built-in data types: integers, floats, strings, lists, tuples, dictionaries, and sets. Each data type has unique characteristics and use cases.
+
+### Lists and Tuples
+Lists are mutable sequences that can be modified after creation. Tuples are immutable sequences that cannot be changed once created. 
+
+### Dictionaries
+Dictionaries store key-value pairs and provide fast lookup based on keys. They are useful for organizing related data.
+
+## Control Flow
+Python uses if-elif-else statements for conditional execution. Loops include for loops and while loops for repetitive tasks.
+
+## Functions
+Functions are reusable blocks of code that perform specific tasks. They can take parameters and return values.
+
+## Object-Oriented Programming
+Python supports classes and objects for creating organized, reusable code structures. Inheritance allows classes to inherit properties from parent classes.
