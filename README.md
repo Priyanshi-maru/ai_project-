@@ -2,7 +2,7 @@
 
 An intelligent web-based quiz generation system that automatically creates customized multiple-choice questions from uploaded documents using AI technology.
 
-## 🚀 Features
+##  Features
 
 ### Core Functionality
 - **Document Upload**: Support for PDF and DOCX file formats
@@ -23,7 +23,7 @@ An intelligent web-based quiz generation system that automatically creates custo
 - **Database Storage**: MySQL database for user data and quiz management
 - **Responsive Design**: Mobile-friendly web interface
 
-## 🛠️ Technology Stack
+##  Technology Stack
 
 ### Backend
 - **PHP 8.x**: Server-side scripting and web application logic
@@ -40,7 +40,7 @@ An intelligent web-based quiz generation system that automatically creates custo
 - **PyMuPDF (fitz)**: PDF text extraction
 - **python-docx**: Word document processing
 
-## 📋 Prerequisites
+##  Prerequisites
 
 - **Web Server**: Apache/Nginx with PHP support
 - **PHP**: Version 8.0 or higher
@@ -49,7 +49,7 @@ An intelligent web-based quiz generation system that automatically creates custo
 - **Composer**: PHP dependency management
 - **Pip**: Python package management
 
-## 🔧 Installation
+##  Installation
 
 ### 1. Clone Repository
 ```bash
@@ -87,7 +87,7 @@ pip install pymupdf python-docx openai sentence-transformers
 - Set appropriate file size limits
 - Configure virtual host pointing to project root
 
-## 🚀 Usage
+##  Usage
 
 ### For Students
 1. **Register/Login**: Create account or sign in
@@ -101,7 +101,7 @@ pip install pymupdf python-docx openai sentence-transformers
 3. **View Analytics**: Monitor user performance and quiz statistics
 4. **Export Data**: Generate CSV reports of quiz results
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 ai_project-/
@@ -127,7 +127,7 @@ ai_project-/
 └── uploads/               # User uploaded files
 ```
 
-## 🔒 Security Considerations
+##  Security Considerations
 
 - **Input Validation**: All user inputs are sanitized
 - **SQL Injection Prevention**: Prepared statements used throughout
@@ -135,7 +135,7 @@ ai_project-/
 - **File Upload Security**: File type and size restrictions
 - **Session Security**: Secure session handling and timeout
 
-## 🤝 Contributing
+##  Contributing
 
 1. Fork the repository
 2. Create a feature branch (`git checkout -b feature/AmazingFeature`)
@@ -143,15 +143,15 @@ ai_project-/
 4. Push to branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## 📝 License
+## License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-## 👥 Authors
+## Authors
 
-- **Priyanshi Maru** - *Initial work* - [GitHub Profile](https://github.com/Priyanshi-maru)
+- **Priyanshi Maru and Victoria Vedastus** - *Initial work* - [GitHub Profile](https://github.com/Priyanshi-maru)
 
-## 🙏 Acknowledgments
+## Acknowledgments
 
 - OpenAI for AI question generation capabilities
 - PyMuPDF community for PDF processing tools
